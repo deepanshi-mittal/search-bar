@@ -1,2 +1,1 @@
-# Search-bar
- A search bar using html, css and javascript.
+Search bar using HTML, CSS and Javascript.
